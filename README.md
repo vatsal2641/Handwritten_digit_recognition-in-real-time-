@@ -44,4 +44,5 @@ Steps involved in extracting image captured from the camera:
   5. Using these extracted image for image classification after suitable image preprocessing.
   
   
+  User Interface : Streamlit 
   
